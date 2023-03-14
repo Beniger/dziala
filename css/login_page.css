@@ -1,0 +1,49 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: url(https://st4.depositphotos.com/5501600/21385/i/600/depositphotos_213856702-stock-photo-abstract-blue-background-with-texture.jpg);
+	background-size: cover;
+	background-position: center;
+	font-family: sans-serif;
+	
+}
+.login_space{
+	left:38%;
+	top: 20%;
+	position: absolute;
+	width: 400px;
+	height: 600px;
+	
+	
+
+}
+.userp{
+	height: 100px;
+	width: 100px;
+	position: absolute;
+	left: 46%;
+	top: 15%;
+	border-radius: 50%;
+
+}
+.insb{
+	margin-left: 110px;
+	line-height: 30px;
+	line-height: 50px;
+	padding-top: 50px;
+
+}
+a{	
+	top: 50%;
+	color: darkgrey;
+}
+.bt{
+	width: 200px;
+	height: 50px;
+	border-radius: 50%;
+}
+.bt:hover{
+	background-color: blue;
+	transition: ease-in 5s;
+}
+
